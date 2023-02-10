@@ -1,0 +1,20 @@
+#area-de-gobierno{
+    color: rgb(56, 72, 92);
+    background-color: #cfd7db96;
+}
+
+.a_areadegobierno{
+    text-decoration: none;
+    border-radius: 15px;
+    border-color: aliceblue;
+}
+
+.h4_areadegobierno{
+    margin-left: 20px;
+    color: rgb(56, 72, 92);
+}
+
+.div_areadegobiernoard-body {
+    min-height: 1px;
+    flex: 1 1 auto;
+}

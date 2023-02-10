@@ -1,0 +1,33 @@
+body{
+
+      margin: 0;
+        font-family: Open Sans, system-ui, -apple-system, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #38485c;
+        text-align: left;
+}
+
+.banner{
+background: url(../img/reclamosBanner.png) #fee56b no-repeat bottom right/contain;
+border-radius: 15px;
+width: 100%;
+height: 300px;
+padding: 3em;
+
+}
+
+.row{
+ 
+  margin-left:-15px !important ;
+  margin-right: -15px !important;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+a{
+  text-decoration: none !important;
+  color: white !important;
+}

@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    width: 13vw;
+    padding: 40px;
+    margin: 20px;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+}
+.imglogo{
+    width: 10rem;
+}
+.botones{
+    padding: 20px;
+    margin: 40px;
+    width: 70rem;
+    display: flex;
+    justify-content: flex-end;
+}

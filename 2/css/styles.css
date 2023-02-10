@@ -1,0 +1,61 @@
+
+  
+.contenedor-slider{
+    top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	margin: -230px;
+
+}
+
+.contenedor{
+	
+	
+	position: relative;
+	width: 85%;
+	height: auto;;
+	margin: -280px auto;
+    right: -15%;
+	
+
+}  
+
+input{
+    width: 20%;
+    height: 50px;
+    
+    
+}
+
+.caja1{
+	right: 0;
+	bottom: 0;
+	
+}
+
+.caja2{
+	right: 0;
+	
+}
+
+.caja3{
+	
+	top: 0;
+}
+
+.caja4{
+	
+	bottom: 0;
+
+}
+
+
+.caja5{
+	
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+}
